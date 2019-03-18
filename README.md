@@ -1,6 +1,3 @@
-# TensorFlow Tutorial 2: Image Classification Walk-through
+# Image classifier based on inception model
 
-See the documents "TensorFlow_Tut_2_Classification_Walk-through" above (MS Word or PDF version)
-
-Walk-through video:
-https://www.youtube.com/watch?v=oXpsAiSajE0
+Tutorial followed: https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html?index=..%2F..index#0
